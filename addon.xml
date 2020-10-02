@@ -85,7 +85,7 @@
     <forum>https://forum.kodi.tv/showthread.php?tid=329767</forum>
     <source>https://github.com/CastagnaIT/plugin.video.netflix</source>
     <news>
-v1.10.0 (2020-09-xx)
+v1.10.0 (2020-10-02)
 - Add initial support to keymapping (details to Wiki)
 - Fixed regression causing PIN request each time the main menu is loaded
 - Fixed an issue that caused build_media_tag exception while watching video
